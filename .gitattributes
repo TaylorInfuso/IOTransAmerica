@@ -1,0 +1,2 @@
+Build2/** filter=lfs diff=lfs merge=lfs -text
+ios_Build/** filter=lfs diff=lfs merge=lfs -text
